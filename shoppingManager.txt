@@ -1,0 +1,5 @@
+Clothing,C008,Trouser,12,23.32,M,Blue
+Electronic,E0018,Bulb,26,16.67,Orange,12 weeks warranty
+Clothing,C0020,Shirt,5,23.45,S,Red
+Electronic,E003,Fan,12,83.9,Innovex,26 weeks warranty
+Clothing,C0034,Dress,3,29.95,S,Red
